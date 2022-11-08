@@ -3,7 +3,7 @@
     <string name="user1">Толокнов</string>
     <string name="user2">Якубівський</string>
     <string name="user3">Лазоренко</string>
-    <string name="user4">Білозорцев</string>
+    <string name="user4">Драчук</string>
     <string name="user5">Ковбаса</string>
     <string name="user6">Демидась</string>
     <string name="user7">Лавриченко</string>
@@ -11,16 +11,16 @@
     <string name="user9">Дяченов</string>
     <string name="user10">Давидов</string>
     <string name="user11">Воротнюк</string>
-    <string name="user12">Кучерявий</string>
-    <string name="user13">Суржинська</string>
-    <string name="user14">Константиновський</string>
-    <string name="user15">Гошля</string>
-    <string name="user16">Олійник</string>
-    <string name="user17">Баранов</string>
+    <string name="user12">Баранов</string>
+    <string name="user13">Гошля</string>
+    <string name="user14">Партола</string>
+    <string name="user15">Константиновський</string>
+    <string name="user16">Суржинська</string>
+    <string name="user17">Затяжчук</string>
     <string name="user18">Мороз</string>
-    <string name="user19">Затяжчук</string>
-    <string name="user20">Партола</string>
-    <string name="user21">Драчук</string>
+    <string name="user19">Кучерявий</string>
+    <string name="user20">Олійник</string>
+    <string name="user21">Білозорцев</string>
 
 
     <string name="action_vn">В наявності</string>
