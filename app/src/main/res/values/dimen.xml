@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimen1">@dimen/_34sdp</dimen> <!-- 24 / 34 Розмір рядків з прізвищами -->
+    <dimen name="dimen2">@dimen/_12sdp</dimen> <!-- Розмір тексту з номером і прізвищами -->
+    <dimen name="dimen3">@dimen/_10sdp</dimen> <!-- 10 Розмір тексту на кнопках -->
+    <dimen name="dimen4">@dimen/_20sdp</dimen> <!-- 14 / 20 Розмір кнопок в рядках -->
+</resources>

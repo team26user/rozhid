@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">БЧС 1.2</string>
+    <string name="user1">Толокнов</string>
+    <string name="user2">Якубівський</string>
+    <string name="user3">Лазоренко</string>
+    <string name="user4">Білозорцев</string>
+    <string name="user5">Ковбаса</string>
+    <string name="user6">Демидась</string>
+    <string name="user7">Лавриченко</string>
+    <string name="user8">Кухар</string>
+    <string name="user9">Дяченов</string>
+    <string name="user10">Давидов</string>
+    <string name="user11">Воротнюк</string>
+    <string name="user12">Кучерявий</string>
+    <string name="user13">Суржинська</string>
+    <string name="user14">Константиновський</string>
+    <string name="user15">Гошля</string>
+    <string name="user16">Олійник</string>
+    <string name="user17">Баранов</string>
+    <string name="user18">Мороз</string>
+    <string name="user19">Затяжчук</string>
+    <string name="user20">Партола</string>
+    <string name="user21">Драчук</string>
+
+
+    <string name="action_vn">В наявності</string>
+    <string name="action_n">Наряд</string>
+    <string name="action_kaz">КАЗ</string>
+    <string name="action_zv">Звільнення</string>
+    <string name="action_v">Відпустка</string>
+    <string name="action_vd">Відрядження</string>
+    <string name="action_b">Баня</string>
+
+    <string name="action_vn1">В наявності</string>
+    <string name="action_n1">🟢 Наряд</string>
+    <string name="action_kaz1">🟡 КАЗ</string>
+    <string name="action_zv1">🔴 Звільнення</string>
+    <string name="action_v1">🟣 Відпустка</string>
+    <string name="action_vd1">🔵 Відрядження</string>
+    <string name="action_b1">🟤 Баня</string>
+
+    <string name="menu_set_row_wide">Зробити рядки ширше</string>
+    <string name="menu_set_row_tiny">Зробити рядки вужче</string>
+</resources>

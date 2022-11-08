@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Prizzep/AndroidStudioProjects/rozhid/app/src/main/res/drawable/arrow_collapse_vertical.xml" value="0.2105" />
+        <entry key="..\:/Users/Prizzep/AndroidStudioProjects/rozhid/app/src/main/res/drawable/arrow_split_horizontal.xml" value="0.2105" />
+        <entry key="..\:/Users/Prizzep/AndroidStudioProjects/rozhid/app/src/main/res/drawable/cog.xml" value="0.2105" />
+        <entry key="..\:/Users/Prizzep/AndroidStudioProjects/rozhid/app/src/main/res/drawable/dots_vertical.xml" value="0.2105" />
+        <entry key="..\:/Users/Prizzep/AndroidStudioProjects/rozhid/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.2555" />
+        <entry key="..\:/Users/Prizzep/AndroidStudioProjects/rozhid/app/src/main/res/drawable/settings-48px.xml" value="0.2555" />
+        <entry key="..\:/Users/Prizzep/AndroidStudioProjects/rozhid/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/Prizzep/AndroidStudioProjects/rozhid/app/src/main/res/menu/menu_main.xml" value="0.15789473684210525" />
+        <entry key="..\:/Users/Prizzep/AndroidStudioProjects/rozhid/app/src/main/res/menu/popup_menu.xml" value="0.15789473684210525" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

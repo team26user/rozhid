@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_vn"
+        android:title="@string/action_vn1"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_n"
+        android:title="@string/action_n1"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_kaz"
+        android:title="@string/action_kaz1"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_zv"
+        android:title="@string/action_zv1"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_v"
+        android:title="@string/action_v1"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_vd"
+        android:title="@string/action_vd1"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_b"
+        android:title="@string/action_b1"
+        app:showAsAction="never"/>
+</menu>

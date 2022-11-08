@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#252525</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="color1">#252525</color> <!-- Колір фону -->
+    <color name="color2">#A1A1A1</color> <!-- Колір б.ч.с. -->
+    <color name="color3">#A1A1A1</color> <!-- Колір порядкового номера -->
+    <color name="color4">#A1A1A1</color> <!-- Колір прізвища -->
+    <color name="color5">#A1A1A1</color> <!-- Колір розділителя-лінії -->
+    <color name="color13">#A1A1A1</color> <!-- Колір розділителя-лінії-нарядів -->
+    <color name="color6">#5B5C5B</color> <!-- Колір кнопки В НАЯВНОСТІ -->
+    <color name="color8">#23A530</color> <!-- Колір кнопки НАРЯД -->
+    <color name="color9">#AAA152</color> <!-- Колір кнопки КАЗ -->
+    <color name="color10">#DC2F6A</color> <!-- Колір кнопки ЗВІЛЬНЕННЯ -->
+    <color name="color11">#A32FB6</color> <!-- Колір кнопки ВІДПУСТКА -->
+    <color name="color12">#2178BD</color> <!-- Колір кнопки ВІДРЯДЖЕННЯ -->
+    <color name="color14">#6A2D1A</color> <!-- Колір кнопки БАНЯ -->
+
+    <color name="color7">#393939</color> <!-- Колір кнопки шапки -->
+</resources>
